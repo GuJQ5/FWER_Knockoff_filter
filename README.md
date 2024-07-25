@@ -1,6 +1,6 @@
 # FWER_Knockoff_filter
 
-This repository contains all codes and data for reproducing simulation experiments and data analysis of our Biometrics paper ``Summary Statistics Knockoffs Inference with Family-wise Error Rate Control" (http://).
+This repository contains all codes and data for reproducing simulation experiments and data analysis of our Biometrics paper "Summary Statistics Knockoffs Inference with Family-wise Error Rate Control" (http://).
 
 The folder "Functions" contains three scripts that contain functions that will be used in all simulations, including "ESGWAS.R", "GhostKnockoff_hello.R" and "KnockoffScreen_AL_vMar16.R".
 
